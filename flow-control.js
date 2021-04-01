@@ -1,3 +1,5 @@
+var basicTeenager = true;
+
 if basicTeenager (age between 13 - 19) {
   return ("You are a teenager!");
 }
