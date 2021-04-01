@@ -1,6 +1,6 @@
 var basicTeenager age 13 - 19 = true;
 
-function if basicTeenager(age 13 - 19) {
+function if (basicTeenager age 13 - 19) {
   console.log.("You are a teenager!");
 }
 
